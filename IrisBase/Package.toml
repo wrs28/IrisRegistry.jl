@@ -1,0 +1,3 @@
+name = "IrisBase"
+uuid = "2c9ecdf8-4a52-11e9-39a9-59d6a9787d27"
+repo = "git@github.com:wrs28/IrisBase.jl.git"

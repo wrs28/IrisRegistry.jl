@@ -4,6 +4,12 @@ repo = "https://github.com/wrs28/IrisRegistry.git"
 description = "For Iris.jl"
 
 [packages]
+fede57cc-428a-11e9-3e5c-c149a0a4072d = { name = "ArnoldiMethodWrapper", path = "ArnoldiMethodWrapper"}
+7edf5c3c-4a51-11e9-106e-0de8ad83fb01 = { name = "Iris", path = "Iris"}
+2c9ecdf8-4a52-11e9-39a9-59d6a9787d27 = { name = "IrisBase", path = "IrisBase" }
+325a41b4-4a57-11e9-029c-c5a15b674299 = { name = "IrisSpectral", path = "IrisSpectral"}
+6ed6c396-4a58-11e9-1db8-19b1dcb39f34 = { name = "IrisFloquet", path = "IrisFloquet"}
+e8a29fba-4a58-11e9-29ba-414d2217d7cf = { name = "IrisScattering", path = "IrisScattering"}
 # fede57cc-428a-11e9-3e5c-c149a0a4072d = { name = "ArnoldiMethodWrapper", path = "ArnoldiMethodWrapper"}
 # d82edaaa-467e-11e9-1fae-7fa4f0138a9c = { name = "BoundaryConditions", path = "BoundaryConditions"}
 # ea455298-467c-11e9-053c-bf8974990e6a = { name = "Bravais", path = "Bravais"}
