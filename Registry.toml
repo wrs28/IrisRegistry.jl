@@ -1,0 +1,21 @@
+name = "IrisRegistry"
+uuid = "cccb03ba-4a51-11e9-22a9-359b3e066510"
+repo = "https://github.com/wrs28/IrisRegistry.git"
+description = "For Iris.jl"
+
+[packages]
+# fede57cc-428a-11e9-3e5c-c149a0a4072d = { name = "ArnoldiMethodWrapper", path = "ArnoldiMethodWrapper"}
+# d82edaaa-467e-11e9-1fae-7fa4f0138a9c = { name = "BoundaryConditions", path = "BoundaryConditions"}
+# ea455298-467c-11e9-053c-bf8974990e6a = { name = "Bravais", path = "Bravais"}
+# 2f559cc4-46b1-11e9-1470-47b27c241f47 = { name = "ConstructionTools", path = "ConstructionTools"}
+# 88a3acc8-46b4-11e9-33c2-85fc1004b4ab = { name = "ConstructionToolsBase", path = "ConstructionToolsBase"}
+# a7a6952a-4684-11e9-2bee-950dc370aa9a = { name = "CoordinateSystems", path = "CoordinateSystems" }
+# 008ef850-46b0-11e9-3e1d-6705c554c37f = { name = "DefineSimulation", path = "DefineSimulation"}
+# 832bfa72-468a-11e9-3007-9de4a8e18829 = { name = "DielectricFunctions", path = "DielectricFunctions"}
+# b4b32848-468c-11e9-3ee3-d9201907748a = { name = "DifferentialOperators", path = "DifferentialOperators"}
+# 8e39748c-49aa-11e9-0866-87030e5cda6a = { name = "Dispersions", path = "Dispersions"}
+# 0f7cde6a-46c7-11e9-3189-1d6fe3dc018b = { name = "HelmholtzEigen", path = "HelmholtzEigen"}
+# df190bf0-46c0-11e9-23f4-5b73019da2fb = { name = "PhotonicCrystal", path = "PhotonicCrystal"}
+# 9b9a6760-2e16-11e9-17f4-29fa885e4df6 = { name = "ScalarFDFD", path = "ScalarFDFD"}
+# 4dc5dece-468b-11e9-1b57-0da32f334df1 = { name = "Shapes", path = "Shapes"}
+# d90bc60c-46c1-11e9-3aae-1b44514d6fdb = { name = "Waveguides", path = "Waveguides"}
