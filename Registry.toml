@@ -5,7 +5,7 @@ description = "For Iris.jl"
 
 [packages]
 b01435f3-c073-4357-a6db-57eda4d8c2d8 = { name = "ArnoldiMethodWrapper", path = "ArnoldiMethodWrapper"}
-7edf5c3c-4a51-11e9-106e-0de8ad83fb01 = { name = "Iris", path = "Iris"}
+7edf5c3c-4a51-11e9-106e-0de8ad83fb01 = { name = "Iris2", path = "Iris"}
 2c9ecdf8-4a52-11e9-39a9-59d6a9787d27 = { name = "IrisBase", path = "IrisBase" }
 325a41b4-4a57-11e9-029c-c5a15b674299 = { name = "IrisSpectral", path = "IrisSpectral"}
 6ed6c396-4a58-11e9-1db8-19b1dcb39f34 = { name = "IrisFloquet", path = "IrisFloquet"}
